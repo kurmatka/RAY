@@ -1,0 +1,8 @@
+{
+  "wake_word": "рей",
+  "language": "ru",
+  "log_level": "INFO",
+  "sounds_enabled": true,
+  "microphone_index": null,
+  "custom_commands": []
+}
